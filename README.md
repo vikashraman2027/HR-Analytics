@@ -121,8 +121,9 @@ The dataset contains:
 
 # Dashboard Preview
 
-![Dashboard Preview](screenshots/hr-dashboard-preview.png)
+# Dashboard Preview
 
+![Dashboard Preview](screenshots/hr-dashboard-preview.png)
 ---
 
 # Files Included
