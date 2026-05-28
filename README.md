@@ -121,10 +121,7 @@ The dataset contains:
 
 # Dashboard Preview
 
-# Dashboard Preview
-
 ![Dashboard Preview](screenshots/hr-dashboard-preview.png)
----
 
 # Files Included
 - Power BI Dashboard (.pbix)
